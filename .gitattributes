@@ -1,0 +1,2 @@
+hlahd/dictionary_3.55/*.fasta filter=lfs diff=lfs merge=lfs -text
+hlahd/dictionary_3.55/hla.dat filter=lfs diff=lfs merge=lfs -text
