@@ -1,0 +1,12 @@
+#Gene name	DPA2
+#Alleles	6
+#Maxgene	6787
+#Maxnuc	733
+#Exon	4	55	245	282	151
+#HLA name	Allele name	gene	nuc	exon1	exon2	exon3	exon4
+HLA16384	HLA-DPA2*01:01:01:01	+	+	+	+	+	+
+HLA16387	HLA-DPA2*01:01:01:02	+	+	+	+	+	+
+HLA16383	HLA-DPA2*01:01:01:03	+	+	+	+	+	+
+HLA16385	HLA-DPA2*01:01:02	+	+	+	+	+	+
+HLA16386	HLA-DPA2*02:01:01:01	+	+	+	+	+	+
+HLA38863	HLA-DPA2*02:01:01:02	+	+	+	+	+	+

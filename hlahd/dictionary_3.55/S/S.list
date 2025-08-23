@@ -1,0 +1,13 @@
+#Gene name	S
+#Alleles	7
+#Maxgene	874
+#Maxnuc	266
+#Exon	8	0	0	0	0	0	27	48	191
+#HLA name	Allele name	gene	nuc	exon1	exon2	exon3	exon4	exon5	exon6	exon7	exon8
+HLA18607	HLA-S*01:01:01:01	+	+	-	-	-	-	-	+	+	+
+HLA18606	HLA-S*01:01:01:02	+	+	-	-	-	-	-	+	+	+
+HLA18601	HLA-S*01:02:01:01	+	+	-	-	-	-	-	+	+	+
+HLA18602	HLA-S*01:02:01:02	+	+	-	-	-	-	-	+	+	+
+HLA18603	HLA-S*01:02:01:03	+	+	-	-	-	-	-	+	+	+
+HLA18604	HLA-S*01:03	+	+	-	-	-	-	-	+	+	+
+HLA18605	HLA-S*01:04	+	+	-	-	-	-	-	+	+	+

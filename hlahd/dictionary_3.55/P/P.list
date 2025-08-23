@@ -1,0 +1,11 @@
+#Gene name	P
+#Alleles	5
+#Maxgene	2941
+#Maxnuc	735
+#Exon	7	0	0	261	276	117	33	48
+#HLA name	Allele name	gene	nuc	exon1	exon2	exon3	exon4	exon5	exon6	exon7
+HLA02742	HLA-P*01:01:01:01	+	+	-	-	+	+	+	+	+
+HLA02743	HLA-P*01:01:01:02	+	+	-	-	+	+	+	+	+
+HLA07044	HLA-P*01:02	+	+	-	-	+	+	+	+	+
+HLA02744	HLA-P*02:01:01:01	+	+	-	-	+	+	+	+	+
+HLA02745	HLA-P*02:01:01:02	+	+	-	-	+	+	+	+	+

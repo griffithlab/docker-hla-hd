@@ -1,0 +1,13 @@
+#Gene name	DPB2
+#Alleles	7
+#Maxgene	17834
+#Maxnuc	776
+#Exon	5	100	264	281	111	20
+#HLA name	Allele name	gene	nuc	exon1	exon2	exon3	exon4	exon5
+HLA14837	HLA-DPB2*01:01:01	+	+	+	+	+	+	+
+HLA14838	HLA-DPB2*01:01:02	+	+	+	+	+	+	+
+HLA14842	HLA-DPB2*02:01	-	+	+	+	+	+	+
+HLA14839	HLA-DPB2*03:01:01:01	+	+	+	+	+	+	+
+HLA14840	HLA-DPB2*03:01:01:02	+	+	+	+	+	+	+
+HLA14841	HLA-DPB2*03:01:01:03	+	+	+	+	+	+	+
+HLA38857	HLA-DPB2*03:02	+	+	+	+	+	+	+

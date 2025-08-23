@@ -1,0 +1,15 @@
+#Gene name	T
+#Alleles	9
+#Maxgene	2487
+#Maxnuc	459
+#Exon	7	0	0	0	276	102	33	48
+#HLA name	Allele name	gene	nuc	exon1	exon2	exon3	exon4	exon5	exon6	exon7
+HLA16376	HLA-T*01:01:01:01	+	+	-	-	-	+	+	+	+
+HLA16377	HLA-T*01:01:01:02	+	+	-	-	-	+	+	+	+
+HLA16382	HLA-T*01:01:01:03	+	-	-	-	-	+	+	+	+
+HLA16375	HLA-T*01:01:01:04	+	+	-	-	-	+	+	+	+
+HLA16378	HLA-T*01:01:01:05	+	+	-	-	-	+	+	+	+
+HLA16380	HLA-T*02:01:01:01	+	+	-	-	-	+	+	+	+
+HLA16379	HLA-T*02:01:01:02	+	+	-	-	-	+	+	+	+
+HLA16381	HLA-T*03:01:01:01	+	+	-	-	-	+	+	+	+
+HLA38950	HLA-T*03:01:01:02	+	+	-	-	-	+	+	+	+

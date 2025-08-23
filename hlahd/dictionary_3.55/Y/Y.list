@@ -1,0 +1,9 @@
+#Gene name	Y
+#Alleles	3
+#Maxgene	2918
+#Maxnuc	1100
+#Exon	8	73	270	276	278	117	33	48	5
+#HLA name	Allele name	gene	nuc	exon1	exon2	exon3	exon4	exon5	exon6	exon7	exon8
+HLA13320	HLA-Y*01:01	+	+	+	+	+	+	+	+	+	+
+HLA13322	HLA-Y*02:01	+	+	+	+	-	+	+	+	+	+
+HLA13321	HLA-Y*03:01	+	+	+	+	+	+	+	+	+	+

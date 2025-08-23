@@ -1,0 +1,11 @@
+#Gene name	N
+#Alleles	5
+#Maxgene	635
+#Maxnuc	161
+#Exon	1	161
+#HLA name	Allele name	gene	nuc	exon1
+HLA18596	HLA-N*01:01:01:01	+	+	+
+HLA18599	HLA-N*01:01:01:02	+	+	+
+HLA18597	HLA-N*01:01:01:03	+	+	+
+HLA18598	HLA-N*01:01:01:04	+	+	+
+HLA18600	HLA-N*01:01:01:05	+	+	+
