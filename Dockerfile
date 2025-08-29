@@ -4,12 +4,18 @@ ENV DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
-        python3 python3-pip vim bowtie2 build-essential && \
+        python3 python3-pip vim bowtie2 build-essential unzip && \
     apt-get clean && rm -rf /var/lib/apt/lists/*
+
 
 WORKDIR /opt
 # Give directories/files sane default perms on copy
 COPY --chmod=0755 hlahd /opt/hlahd
+
+# --- Unzip any dictionary zips into /opt/hlahd/dictionary_3.55 (keep the zip files) ---
+RUN for z in /opt/hlahd/dictionary_3.55/*.zip; do \
+      if [ -e "$z" ]; then unzip -o "$z" -d /opt/hlahd/dictionary_3.55; fi; \
+    done
 
 WORKDIR /opt/hlahd
 # Build helper binaries and dictionary indexes
